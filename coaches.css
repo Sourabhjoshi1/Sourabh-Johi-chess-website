@@ -1,6 +1,4 @@
-
-/* coaches.css */
 .coach-image {
-    max-width: 200px; /* Image will not exceed its container's width */
-    height: auto;    /* Automatically adjusts height to maintain aspect ratio */
+    width: 200px !important;
+    height: auto !important;
 }
