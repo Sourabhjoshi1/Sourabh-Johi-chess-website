@@ -1,1 +1,1 @@
-# Sourabh-Johi-chess-website
+# Sourabh-Joshi-chess-website
