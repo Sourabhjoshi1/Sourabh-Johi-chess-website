@@ -115,4 +115,9 @@ nav a {
     animation: fadeIn 1s ease-in-out;
 }
 
+.coach-image {
+    width: 200px; /* Set the desired width */
+    height: auto; /* Automatically adjust the height to maintain the aspect ratio */
+}
+
 /* Add more advanced styles and animations as needed */
