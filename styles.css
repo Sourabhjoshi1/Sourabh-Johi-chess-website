@@ -9,6 +9,10 @@ body {
     font-family: Arial, sans-serif;
     background-color: silver;
     color: #333;
+    background-image: url('https://img.freepik.com/free-photo/gold-silver-chess-chess-board-game-business-metaphor-leadership-concept_1150-19592.jpg?w=740&t=st=1694848093~exp=1694848693~hmac=05faa8aa8b7ddf8e1b35755f039a85652a127d09ab7644ed640135e55a2c4e52');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
 }
 
 header {
